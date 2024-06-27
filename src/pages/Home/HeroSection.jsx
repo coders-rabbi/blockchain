@@ -4,7 +4,7 @@ import img1 from "../../assets/images/coinImage.jpg";
 
 const HeroSection = () => {
   return (
-    <div className="body_Image pt-20">
+    <div className="pt-20 h-[100vh]">
       <div className="bg-1 grid grid-cols-2 items-center">
         <div className="flex items-center justify-center">
           <img src={img1} alt="" srcset="" />
